@@ -23,7 +23,7 @@ This system integrates **part detection**, **license plate recognition**, and **
 
 ## 🧠 System Architecture
 
-
+![Architecture](Structure.png)
 
 
 ---
