@@ -7,7 +7,7 @@ This system integrates **part detection**, **license plate recognition**, and **
 ---
 
 ## 📌 Key Features
-- **Part Detection** – YOLO-based deep learning model to detect truck components (e.g., headlights, mirrors, bumpers).
+- **Part Detection** – CNN-based deep learning model to detect truck components (e.g., headlights, mirrors, bumpers).
 - **License Plate Recognition** – OCR pipeline fine-tuned for Indian number plates with custom preprocessing.
 - **Damage Detection** – Multi-class damage classification with bounding box localization.
 - **Audit Report Generation** – Structured checklist output for each vehicle, reducing manual effort.
@@ -23,7 +23,7 @@ This system integrates **part detection**, **license plate recognition**, and **
 
 ## 🧠 System Architecture
 
-![Architecture](Structure.png)
+![Architecture](system_architecture.png)
 
 
 ---
