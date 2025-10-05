@@ -29,7 +29,7 @@ This system integrates **part detection**, **license plate recognition**, and **
 ---
 
 ## 📈 Results & Impact
-- **Reduced manual audit time by ~35%**
+- **Reduced manual audit time by ~70%**
 - Increased **accuracy & consistency** in part condition detection
 - Built modular components for **easy scaling** to other vehicle types
 
